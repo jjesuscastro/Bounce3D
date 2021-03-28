@@ -106,3 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28d394c50e2a90343a772e337acd6c50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  onInteract:
+    m_PersistentCalls:
+      m_Calls: []
+  interactionSound: {fileID: 8300000, guid: 69484102b61516c498a568351523ef64, type: 3}

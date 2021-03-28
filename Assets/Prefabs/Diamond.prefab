@@ -109,4 +109,5 @@ MonoBehaviour:
   onInteract:
     m_PersistentCalls:
       m_Calls: []
+  interactionSound: {fileID: 8300000, guid: 69484102b61516c498a568351523ef64, type: 3}
   arrow: {fileID: 6665691236021469591, guid: 3d14f1baa11080c4f826284d30f50a84, type: 3}

@@ -313,6 +313,7 @@ MonoBehaviour:
   onInteract:
     m_PersistentCalls:
       m_Calls: []
+  interactionSound: {fileID: 8300000, guid: b2b0732a8d46b97418b074a38e3db7ea, type: 3}
   meshRenderer: {fileID: 8645215216985275802}
   ringDisabledMaterial: {fileID: 2100000, guid: cdcb5fc4c9d246c4db876cc85ed863b9,
     type: 2}
