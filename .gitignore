@@ -60,6 +60,9 @@ sysinfo.txt
 *.aab
 *.unitypackage
 
+# Gameplay video
+*.mp4
+
 # Crashlytics generated file
 crashlytics-build.properties
 
